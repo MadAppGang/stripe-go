@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	assert "github.com/stretchr/testify/require"
-	stripe "github.com/stripe/stripe-go"
-	. "github.com/stripe/stripe-go/testing"
+	stripe "github.com/MadAppGang/stripe-go"
+	. "github.com/MadAppGang/stripe-go/testing"
 )
 
 func TestBearerAuth(t *testing.T) {

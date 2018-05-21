@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	stripe "github.com/stripe/stripe-go"
-	"github.com/stripe/stripe-go/form"
+	stripe "github.com/MadAppGang/stripe-go"
+	"github.com/MadAppGang/stripe-go/form"
 )
 
 // Client is used to invoke /orders APIs.

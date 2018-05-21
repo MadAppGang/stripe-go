@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	assert "github.com/stretchr/testify/require"
-	"github.com/stripe/stripe-go/form"
+	"github.com/MadAppGang/stripe-go/form"
 )
 
 func TestChargeParams_AppendTo(t *testing.T) {

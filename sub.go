@@ -3,7 +3,7 @@ package stripe
 import (
 	"encoding/json"
 
-	"github.com/stripe/stripe-go/form"
+	"github.com/MadAppGang/stripe-go/form"
 )
 
 // SubStatus is the list of allowed values for the subscription's status.

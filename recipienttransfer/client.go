@@ -2,7 +2,7 @@
 package recipienttransfer
 
 import (
-	stripe "github.com/stripe/stripe-go"
+	stripe "github.com/MadAppGang/stripe-go"
 )
 
 const (

@@ -1,5 +1,5 @@
 package currency
 
 import (
-	_ "github.com/stripe/stripe-go/testing"
+	_ "github.com/MadAppGang/stripe-go/testing"
 )

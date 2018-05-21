@@ -1,8 +1,8 @@
 package issuerfraudrecord
 
 import (
-	stripe "github.com/stripe/stripe-go"
-	"github.com/stripe/stripe-go/form"
+	stripe "github.com/MadAppGang/stripe-go"
+	"github.com/MadAppGang/stripe-go/form"
 )
 
 // Client is used to interact with the /issuer_fraud_records API.
